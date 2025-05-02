@@ -1,4 +1,4 @@
-# Time dependent evalaution of Recommender Systems
+# Time dependent evaluation of Recommender Systems
 
 This repository holds all relevant code to evalaute recsys algorithms over time. The main code is in the file
 lenskit_gs_main.py. The algorithms and evaluation are from the Lenskit libary. 
